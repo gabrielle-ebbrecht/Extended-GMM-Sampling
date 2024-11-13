@@ -1,0 +1,2 @@
+Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Data/application_data.csv filter=lfs diff=lfs merge=lfs -text
+Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Data/previous_application.csv filter=lfs diff=lfs merge=lfs -text
